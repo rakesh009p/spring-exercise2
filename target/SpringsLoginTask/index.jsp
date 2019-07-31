@@ -1,14 +1,16 @@
+
+<%@ page language="java" contentType="text/html; charSet=UTF-8"
+pageEncoding="UTF-8" isELIgnored="false"%>
 <html>
-<head>
-    <%@ page isELIgnored="false" %>
-</head>
+
 <body>
 
 
-<form action="login" method="Post">
-<input type="text"  name=" login id"  ><br>
+<form id="login" action="login" method="Post">
+<input type="text"  name="username"  ><br>
 <input type="password" name="password" ><br>
-<input type="button" name="submit" value="submit">
+<input type="submit">
+
 <br/>
 
 </body>

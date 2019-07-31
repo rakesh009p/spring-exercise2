@@ -1,4 +1,4 @@
-/home/cgi/Downloads/SpringsLoginTask/src/main/java/com/stackroute/User.java
-/home/cgi/Downloads/SpringsLoginTask/src/main/java/Config/UserInitializer.java
-/home/cgi/Downloads/SpringsLoginTask/src/main/java/controller/UserController.java
-/home/cgi/Downloads/SpringsLoginTask/src/main/java/Config/UserConfig.java
+/home/cgi/Downloads/SpringsLoginTask/src/main/java/com/stackroute/controller/UserController.java
+/home/cgi/Downloads/SpringsLoginTask/src/main/java/com/stackroute/Config/UserInitializer.java
+/home/cgi/Downloads/SpringsLoginTask/src/main/java/com/stackroute/Config/UserConfig.java
+/home/cgi/Downloads/SpringsLoginTask/src/main/java/com/stackroute/controller/User.java

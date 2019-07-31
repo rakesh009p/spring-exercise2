@@ -5,6 +5,6 @@ pageEncoding="UTF-8" isELIgnored="false"%>
 
 <body>
 <h2>Welcome ${user} to stackroute!</h2>
-</form>
+
 </body>
 </html>
