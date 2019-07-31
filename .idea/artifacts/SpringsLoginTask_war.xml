@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringsLoginTask.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringsLoginTask_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringsLoginTask.war" />
+    </root>
+  </artifact>
+</component>
